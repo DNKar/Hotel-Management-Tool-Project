@@ -27,6 +27,8 @@ This project is a Hotel Management System implemented using Java OOP concepts. T
 * Open the poject in Eclipse IDE 
 * Run the Main.java file 
 
-## Screenshot ![Screenshot 2023-03-03 at 12 04 55 AM](https://user-images.githubusercontent.com/74642235/222520944-a0634070-a077-4511-9c66-2e66c932acec.png)
+## Screenshot Of Terminal 
+
+![Screenshot 2023-03-03 at 12 04 55 AM](https://user-images.githubusercontent.com/74642235/222520944-a0634070-a077-4511-9c66-2e66c932acec.png)
 
 
